@@ -22,3 +22,11 @@
 text-align: center;
 font-size: 30pt;
 }
+
+#title h1 {
+  font-size: 65px;
+}
+
+#title h2 {
+  font-style: italic;
+}
