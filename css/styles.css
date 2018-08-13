@@ -4,14 +4,21 @@
 }
 
 .jumbotron.jumbotron-fluid {
-  /* background-image: url("img/banner");
-  background-size: cover;
-  background-position: center;
-  width: 100%;
-  height: 293px; */
   color: white;
   text-align: center;
   background-color: #2492C1;
   padding-top: 150px;
   padding-bottom: 150px;
+}
+
+#form {
+  border: solid 2px grey;
+  padding: 20px;
+  width: 500px;
+  margin:0 auto;
+}
+
+#totalPrice {
+text-align: center;
+font-size: 30pt;
 }
